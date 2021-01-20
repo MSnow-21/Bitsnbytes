@@ -12,6 +12,18 @@ h1, h2, h3, h4, h5, h6 {
     margin: 5px;
     
 }
+.container{
+    margin-top: 20px;
+    
+}
+.row-style{
+    background-color: #343a40;
+    color:white;
+    padding:20px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+
+}
 
 a {
     text-decoration: none;

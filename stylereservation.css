@@ -16,6 +16,9 @@ header {
 .showing {
     max-height: 100em;
 }
+.text-stuff{
+    color: white;
+}
 
 header {
     background: #343a40;
@@ -172,6 +175,14 @@ textarea{
 /* centering cart cost in reservations html */
 
 .cartCost1{
+    text-align: center;
+}
+
+.cartHeading{
+    text-align: center;
+}
+
+.cartItem1{
     text-align: center;
 }
 
